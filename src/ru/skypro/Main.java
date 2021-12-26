@@ -8,6 +8,8 @@ public class Main {
         System.out.println("hhjjj");
         System.out.println("hhjjj");
         System.out.println("ghjgjjhgjg");
+        System.out.println("ghjgjjhgjg");
+        System.out.println("Prived");
 
 
 
