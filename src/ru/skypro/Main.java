@@ -10,6 +10,7 @@ public class Main {
         System.out.println("ghjgjjhgjg");
         System.out.println("ghjgjjhgjg");
         System.out.println("Prived");
+        System.out.println("Изменения");
 
 
 
